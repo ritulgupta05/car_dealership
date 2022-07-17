@@ -1,6 +1,7 @@
 package car_dealership;
 
 public class Customer {
+	
 	private String name;
 	private String address;
 	private double cashOnHand;
